@@ -1,0 +1,58 @@
+.banner_img{
+    padding-top: 94px;
+}
+.startup{
+    position: relative;
+    margin-top: 191px;
+}
+.startup span{
+    font-family: ABeeZee;
+    font-weight: 400;
+    font-size: 16px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    padding: 9px 9px 9px 43px;
+}
+.startup_img{
+    position: absolute;
+    top: -5px;
+  left: 2px;
+  padding: 5px 7px;
+  background-color: #FAD7C4;
+  border-radius: 27px;
+}
+.banner_body_text{
+    padding-top: 35px;
+}
+.banner_body_text h2{
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 36px;
+    color: #09090B;
+    padding-bottom: 32px;
+    
+}
+.banner_body_text p{
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+.banner_body_text p{
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+    padding-bottom: 37px;
+}
+.banner_body_text a{
+    text-decoration: none;
+    font-family: ABeeZee;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFF;
+    padding: 9px 23px;
+    background-color: #EA580C;
+    border-radius: 5px;
+  
+}

@@ -1,0 +1,40 @@
+.header_menu{
+
+    column-gap: 83px;
+}
+.header_btn{
+    position: relative;
+}
+.navbar-nav {
+	flex-direction: row;
+	margin-left: 100px;
+}
+ .navbar-nav a{
+    font-family: ABeeZee;
+    font-weight: 400;
+    font-size: 16px;
+    color:#0B0B0B;
+    text-decoration: none;
+ }    
+.navbar-nav a:hover{
+    font-family: rem;
+    color: #EA580C;
+}
+.header_btn a{
+    font-family: ABeeZee;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: EA580C;
+    padding: 18px 59px 18px 107px;
+    background-color:#EA580C ;
+    border-radius: 20px;
+    color: #FFFFFF;
+    
+}
+.btn_img{
+    position: absolute;
+    top: 0;
+    left: 27px;
+    z-index: 999;
+}
