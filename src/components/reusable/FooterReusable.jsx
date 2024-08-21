@@ -1,6 +1,6 @@
 import React from 'react'
 import './footerReusable.css'
-import line from '../../assets/line.png'
+
 import footer_img from '../../assets/footer_img.png'
 
 const FooterReusable = () => {
@@ -10,7 +10,7 @@ const FooterReusable = () => {
                     <p>Et vero eos et accusamus et 
                     iusto odio dignissimos</p>
                     <div className="footer_line">
-                        <img src={line} alt="" />
+                        
                         <div className="line">
                             
                         </div>
